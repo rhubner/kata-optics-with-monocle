@@ -7,4 +7,5 @@ object Dependencies {
 
   lazy val minitest = "io.monix" %% "minitest" % minitestVersion
   lazy val monocleCore = "com.github.julien-truffaut" %% "monocle-core" % monocleVersion
+  lazy val monocleMacro = "com.github.julien-truffaut" %% "monocle-macro" % monocleVersion
 }
